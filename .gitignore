@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# C++ build output
+*.o
+*.obj
+*.exe
+*.out
+*.pdb
+*.ilk
+*.a
+*.lib
+*.dll
